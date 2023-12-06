@@ -56,7 +56,7 @@ class ItalianPage extends StatelessWidget {
           'Sprinkle with fresh parsley and serve.',
         ],
         'https://www.kitchensanctuary.com/wp-content/uploads/2021/06/Creamy-Tomato-Ravioli-Sauce-Tall-FS-15.webp'),
-    Recipe('', [], [], ''),
+
   ];
 
   @override
