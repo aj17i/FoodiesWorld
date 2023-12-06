@@ -6,7 +6,7 @@ class LebanesePage extends StatelessWidget {
     Recipe(
         'Chicken Shawarma',
         [
-          '1- Chicken',
+        '1- Chicken',
           '2- Lemon juice',
           '3- Olive oil',
           '4- Spices: Cumin, Coriander, Cardamom, paprika, salt and pepper',
@@ -19,7 +19,7 @@ class LebanesePage extends StatelessWidget {
           '2- Add chicken into the marinade. Seal the bag, removing excess air, then massage to coat from the outside. Leave to marinade for 12 to 24 hours in the fridge. If you’re pressed for time, even 3 hours will do!',
           '3- Yogurt sauce – Make the yogurt sauce simply by mixing the ingredients then set aside for at least 20 minutes to let the flavours meld. This will keep for 3 days in the fridge.',
           '4- Cook chicken either on the stove or on the BBQ. It will get a great crust on it from the spices, and you will adore the smell. It’s intoxicating!',
-          '5- Rest chicken for at least 3 minutes before serving to allow the juices to redistribute throughout the flesh, else they will just run out everywhere when you slice the meat.',
+          '5- Rest chiken for at least 3 minutes before serving to allow the juices to redistribute throughout the flesh, else they will just run out everywhere when you slice the meat.',
           '6- To serve, just pile everything on a platter and let everybody make their own wraps! The chicken, lettuce, tomato slices, onion, yogurt sauce and warmed flatbreads – homemade or store bought. If the chicken is on the larger side, I sometimes slice it. But if they are smaller, I tend to just leave them whole.',
         ],
         'https://img-global.cpcdn.com/recipes/f291ab9c032a53cd/1360x964cq70/الصورة-الرئيسية-لوصفةشاورما-الدجاج.webp'),

@@ -11,7 +11,7 @@ class Recipe {
   String get image => _imageUrl;
 
   String get name => _dishName;
-
+  
   List<String> getIngredients() {
     return _ingredients;
   }
@@ -31,7 +31,7 @@ class RecipeWidget extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'Lebanese Recipes',
+          'Recipe',
           style: TextStyle(fontSize: 35, fontFamily: 'OoohBaby'),
         ),
         backgroundColor: const Color.fromARGB(255, 0, 21, 37),
@@ -68,6 +68,7 @@ class RecipeWidget extends StatelessWidget {
                     fontFamily: 'DancingScript',
                     fontWeight: FontWeight.bold),
               ),
+              const SizedBox(height: 15),
               Row(
                 children: [
                   Expanded(

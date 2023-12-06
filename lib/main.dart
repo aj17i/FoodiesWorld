@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
         title: 'Foodies World',
         theme: ThemeData(
-          scaffoldBackgroundColor: const Color.fromARGB(255, 221, 242, 253),
+          scaffoldBackgroundColor: const Color.fromARGB(255, 220, 242, 253),
         ),
         debugShowCheckedModeBanner: false,
         home: const Home(cuisines: [])
